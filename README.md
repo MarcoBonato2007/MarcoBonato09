@@ -19,3 +19,12 @@ I'm currently studying for a master's in computer science at the university of O
 - Pandas, numpy, matplotlib
 - OpenGL, assimp
 - Pygame, tkinter
+
+### Skills
+•	Frontend development (React + Vite, Dart + Flutter)
+•	Computer Graphics (in C++, via OpenGL and Assimp)
+•	Web scraping (in Python, via Selenium and Beautiful soup)
+•	Hardware design (in SystemVerilog)
+•	Data analysis (in Python, via Pandas, Numpy and Matplotlib)
+•	Numerical simulations (in Python)
+•	AI & Machine learning (in Python)
